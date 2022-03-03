@@ -1,5 +1,3 @@
-//fix dropdown test
-
 const Page = require('./page');
 
 class dropdownPage extends Page {
